@@ -1,0 +1,8 @@
+database:
+  host: "localhost"
+  port: 5430
+  user: "rat"
+  pass: "rat"
+  db_name: "realworld"
+
+
